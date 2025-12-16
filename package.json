@@ -1,0 +1,25 @@
+{
+  "name": "cpp-mmaplib.cxx",
+  "version": "1.2023.10",
+  "description": "A single file C++11 header-only memory mapped file library; yhirose (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "mmap",
+    "memory-mapped",
+    "file",
+    "header-only",
+    "cpp",
+    "c++11"
+  ],
+  "homepage": "https://github.com/nodef/cpp-mmaplib.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/cpp-mmaplib.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cpp-mmaplib.cxx.git"
+  },
+  "license": "MIT",
+  "main": "cpp-mmaplib.h"
+}
